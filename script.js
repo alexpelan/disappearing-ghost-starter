@@ -1,1 +1,2 @@
 
+var myVar = 5;
